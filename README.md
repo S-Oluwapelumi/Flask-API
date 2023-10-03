@@ -46,19 +46,21 @@ python test.py
 **This URL should be http://127.0.0.1:5000 by default while the endpoint for the script is 'test'**
 **This will run the flask app server programmatically in debug mode. You should have same result as the image below**
 
-![Flask server running](https://github.com/S-Oluwapelumi/Flask-API/assets/125037312/a573017c-0448-43ad-80b8-8ae0fc6ea0ef)
+![Flask server running](https://github.com/S-Oluwapelumi/Flask-API/assets/125037312/263ee1cf-e03c-4b7c-9019-7fb8f4483dd6)
+
 
 ## To ensure that the script is working and view response, we have to make use of an API testing tool. In this case, we'll use `Postman`
 >**Postman is a popular tool for API testing that allows developers to create and execute HTTP requests and test API responses. Postman makes API testing more efficient and effective with features such as request builders, response visualizations, and test automation.**
 
 **To install POSTMAN, we go to the website [Postman.com](https://learning.postman.com/docs/getting-started/installation/installation-and-updates/) and download the OS you use**
 
+
 **After downloading and installing, Postman opens up it homepage by default**
 
 ### Navigate to Postman homepage
 **In the homepage of Postman, naviagte to the `Workspaces` and select `My Workspace`, this should take you to the below page:**
 
-![postman image](https://github.com/S-Oluwapelumi/Flask-API/assets/125037312/f5fd0ac1-b22e-4ea9-95f1-dbd2f627803b)
+![postman image](https://github.com/S-Oluwapelumi/Flask-API/assets/125037312/50c1403f-540e-4a12-9363-93e39c9bab39)
 
 >Follow the numbering and instruction below using the image
 1. Click on the dropdown icon and Select `POST`
