@@ -36,15 +36,19 @@ pip install -r requirements.txt
 ```
 pip freeze > requirements.txt
 ```
->Our environment is now ready to run Flask
+> :tada: Our environment is now ready to run Flask
 
 
 ### To execute the script, we have to run a Flask Application using python syntax i.e python <app_name>.py
 ```
 python test.py
 ```
-**This URL should be http://127.0.0.1:5000 by default while the endpoint for the script is 'test'**
+  
 **This will run the flask app server programmatically in debug mode. You should have same result as the image below**
+
+> :information_source: **Note:**
+> 
+> By default, the URL for Flask is http://127.0.0.1:5000 while the endpoint for the python script is 'test'
 
 ![Flask server running](https://github.com/S-Oluwapelumi/Flask-API/assets/125037312/263ee1cf-e03c-4b7c-9019-7fb8f4483dd6)
 
