@@ -6,7 +6,8 @@ app = Flask(__name__)
 def test():
     data = request.get_json()
     print(type(data['prompt']))
-    # To check 'prompt' and 'user' parameters are strings
+    
+    # This checks if 'prompt' and 'user' parameters are strings
     if isinstance(data.get('prompt'), str) and isinstance(data.get('user'), str):
 
         return 'Status == 200', 200
