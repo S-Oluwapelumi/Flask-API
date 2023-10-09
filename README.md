@@ -56,7 +56,7 @@ python test.py
 ## To ensure that the script is working and view response, we have to make use of an API testing tool. In this case, we'll use `Postman`
 >**Postman is a popular tool for API testing that allows developers to create and execute HTTP requests and test API responses. Postman makes API testing more efficient and effective with features such as request builders, response visualizations, and test automation.**
 
-**To install POSTMAN, we go to the website [Postman.com](https://learning.postman.com/docs/getting-started/installation/installation-and-updates/) and download the OS you use**
+**To install POSTMAN, we go to the website [Postman.com](https://learning.postman.com/docs/getting-started/installation/installation-and-updates/) and download Postman version compatible with your operating system.**
 
 
 **After downloading and installing, Postman opens up it homepage by default**
